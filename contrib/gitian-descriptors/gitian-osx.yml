@@ -28,8 +28,8 @@ packages:
 - "python-setuptools"
 - "fonts-tuffy"
 remotes:
-- "url": "https://github.com/loonie-project/loonie.git"
-  "dir": "loonie"
+- "url": "https://github.com/TeamLoonie/LoonieCoin.git"
+  "dir": "LoonieLoin"
 files:
 - "MacOSX10.11.sdk.tar.gz"
 script: |

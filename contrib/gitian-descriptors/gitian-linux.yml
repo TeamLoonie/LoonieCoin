@@ -29,8 +29,8 @@ packages:
 - "python"
 reference_datetime: "2015-06-01 00:00:00"
 remotes:
-- "url": "https://github.com/loonie-project/loonie.git"
-  "dir": "loonie"
+- "url": "https://github.com/TeamLoonie/LoonieCoin.git"
+  "dir": "LoonieLoin"
 files: []
 script: |
 

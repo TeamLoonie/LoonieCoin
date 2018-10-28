@@ -22,8 +22,8 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/loonie-project/loonie.git"
-  "dir": "loonie"
+- "url": "https://github.com/TeamLoonie/LoonieCoin.git"
+  "dir": "LoonieLoin"
 files: []
 script: |
   WRAP_DIR=$HOME/wrapped
