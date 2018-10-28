@@ -2,7 +2,7 @@
 name: "loonie-win-2.3"
 enable_cache: true
 suites:
-- "trusty"
+- "precise"
 architectures:
 - "amd64"
 packages: 
